@@ -1,10 +1,10 @@
-# Pooria Arab Brand
+# Ryan Armani Brand
 
-Pooria Arab is an AI-native builder. His work centers on agent tools,
+Ryan Armani is an AI-native builder. His work centers on agent tools,
 local-first systems, creator software, and fast product experiments.
 
 The profile line is “Vibing everyday.” Use it as a casual status, not a product
-claim. Refer to the person as “Pooria” in conversational copy and “Pooria Arab”
+claim. Refer to the person as “Ryan” in conversational copy and “Ryan Armani”
 in formal identification.
 
 ## Voice
@@ -31,4 +31,4 @@ portfolio, but it is not a rule for every new project.
 ## External assets
 
 Social badges, the profile-view counter, and the contribution graph belong to
-their providers. Their colors and shapes are not Pooria’s brand assets.
+their providers. Their colors and shapes are not Ryan’s brand assets.
