@@ -1,4 +1,4 @@
-# Pooria Arab Design Guide
+# Ryan Armani Design Guide
 
 ## Overview
 
@@ -47,5 +47,5 @@ Treat external widgets as optional supporting content.
 - Do use exact project names and direct repository links.
 - Do keep the page useful in light and dark GitHub themes.
 - Don't invent a logo, palette, font, spacing scale, or application shell.
-- Don't treat social-network colors as Pooria’s own palette.
+- Don't treat social-network colors as Ryan’s own palette.
 - Don't add a `/brand` or `/design.md` route without an owned production site.
